@@ -10,7 +10,8 @@ export default function Home() {
         configuration={{
           title: "APIs.do Reference",
           theme: "default",
-          url: "https://apis.do/api.json"
+          url: "https://apis.do/api.json",
+          proxyUrl: "https://proxy.scalar.com"
         }}
       />
     </div>
