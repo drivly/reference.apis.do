@@ -11,7 +11,8 @@ export default function Home() {
           title: "APIs.do Reference",
           theme: "default",
           url: "https://apis.do/api.json",
-          proxyUrl: "https://proxy.scalar.com"
+          proxyUrl: "https://proxy.scalar.com",
+          layout: "modern"
         }}
       />
     </div>
